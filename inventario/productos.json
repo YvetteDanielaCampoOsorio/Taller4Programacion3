@@ -1,0 +1,32 @@
+[
+  {
+    "codigo": "A1",
+    "nombre": "Arroz",
+    "precio": 5000,
+    "cantidad": 10
+  },
+  {
+    "codigo": "B2",
+    "nombre": "Frijoles",
+    "precio": 7000,
+    "cantidad": 3
+  },
+  {
+    "codigo": "C3",
+    "nombre": "Leche",
+    "precio": 3500,
+    "cantidad": 8
+  },
+  {
+    "codigo": "D4",
+    "nombre": "Pan",
+    "precio": 2000,
+    "cantidad": 2
+  },
+  {
+    "codigo": "E5",
+    "nombre": "Huevos",
+    "precio": 12000,
+    "cantidad": 15
+  }
+]
